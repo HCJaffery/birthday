@@ -20,10 +20,10 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "亲爱的啊lei～": "./imgs/xiaokeai.png",
-        "今天是你的生日": "./imgs/xiaokeai.png",
-        "愿你平安喜乐暴富": "./imgs/xiaokeai.png",
-        "越来越美腻": "./imgs/xiaokeai.png",
+        "亲爱的啊lei～": "./imgs/1.jpg",
+        "今天是你的生日": "./imgs/1.jpg",
+        "愿你平安喜乐暴富": "./imgs/2.jpg",
+        "越来越美腻": "./imgs/2.jpg",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
